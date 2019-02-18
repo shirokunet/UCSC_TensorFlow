@@ -1,2 +1,4 @@
 # exclude below folder
 .ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+homework_01/cifar-10-batches-py/
